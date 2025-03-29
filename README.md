@@ -26,5 +26,5 @@ Track prices from e-commerce sites (Zepto, Blinkit, Flipkart, etc.) and get noti
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/price-tracker.git
+   git clone https://github.com/Sachin20051/price-tracker.git
    cd price-tracker
